@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d121285-1034-48b5-ab26-9b2f1fe06068" name="Default" comment="" />
+    <ignored path="qd99.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="qd99" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="qd99.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/qd99.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="26" selection-start="34" selection-end="56" vertical-scroll-proportion="0.07638889" vertical-offset="0" max-vertical-offset="3080">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jStPlayerStart.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaScript/jStPlayerStart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="902">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jStPlayLevel.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaScript/jStPlayLevel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="3410">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jGame.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaScript/jGame.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="69" column="22" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.0" vertical-offset="1283" max-vertical-offset="3102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="easyTool.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaScript/tools/easyTool.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="110" column="27" selection-start="2248" selection-end="2248" vertical-scroll-proportion="0.0" vertical-offset="2218" max-vertical-offset="3586">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jLoadImagesManager.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaScript/tools/jLoadImagesManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="13" selection-start="872" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="1100" max-vertical-offset="1408">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styleSheet/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="2" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.0" vertical-offset="1386" max-vertical-offset="3740">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/javaScript/tools/easyTool.js" />
+        <option value="$PROJECT_DIR$/javaScript/tools/jLoadImagesManager.js" />
+        <option value="$PROJECT_DIR$/javaScript/jBackgroundColors.js" />
+        <option value="$PROJECT_DIR$/styleSheet/style.css" />
+        <option value="$PROJECT_DIR$/qd99.html" />
+        <option value="$PROJECT_DIR$/javaScript/jGame.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qd99" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d121285-1034-48b5-ab26-9b2f1fe06068" name="Default" comment="" />
+      <created>1568028357706</created>
+      <updated>1568028357706</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qd99.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="34" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStPlayerStart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="902">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStPlayLevel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="3410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="22" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.0" vertical-offset="1283" max-vertical-offset="3102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/tools/easyTool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="27" selection-start="2248" selection-end="2248" vertical-scroll-proportion="0.0" vertical-offset="2218" max-vertical-offset="3586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/tools/jLoadImagesManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="13" selection-start="872" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="1100" max-vertical-offset="1408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styleSheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="2" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.0" vertical-offset="1386" max-vertical-offset="3740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qd99.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="45" selection-start="1845" selection-end="1845" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStPlayerStart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="902">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStPlayLevel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="3410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="22" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.0" vertical-offset="1283" max-vertical-offset="3102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/tools/easyTool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="27" selection-start="2248" selection-end="2248" vertical-scroll-proportion="0.0" vertical-offset="2218" max-vertical-offset="3586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/tools/jLoadImagesManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="13" selection-start="872" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="1100" max-vertical-offset="1408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styleSheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="2" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.0" vertical-offset="1386" max-vertical-offset="3740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qd99.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="45" selection-start="1845" selection-end="1845" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStPlayerStart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="902">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStPlayLevel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="3410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="4" selection-start="2878" selection-end="2878" vertical-scroll-proportion="0.0" vertical-offset="2509" max-vertical-offset="3102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/tools/easyTool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="9" selection-start="1287" selection-end="1287" vertical-scroll-proportion="0.0" vertical-offset="1409" max-vertical-offset="3586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styleSheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="2" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.0" vertical-offset="1386" max-vertical-offset="3740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qd99.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1711" selection-end="1711" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jBackgroundColors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="6" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="792" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jColors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="6" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="4" selection-start="2878" selection-end="2878" vertical-scroll-proportion="0.0" vertical-offset="2534" max-vertical-offset="3102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/tools/jLoadImagesManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="18" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/object/jUserSheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="8" selection-start="939" selection-end="939" vertical-scroll-proportion="0.0" vertical-offset="661" max-vertical-offset="1958" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/tools/easyTool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="9" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="3586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jAnimate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="14" selection-start="1192" selection-end="1192" vertical-scroll-proportion="0.0" vertical-offset="1101" max-vertical-offset="1694" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styleSheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="2733" max-vertical-offset="3630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qd99.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styleSheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="31" selection-start="2077" selection-end="2077" vertical-scroll-proportion="0.0" vertical-offset="2860" max-vertical-offset="3608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/object/jWrongSheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2112" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jBackgroundColors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="6" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="199" max-vertical-offset="792" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jColors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="6" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="18" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jAnimate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="14" selection-start="1192" selection-end="1192" vertical-scroll-proportion="0.0" vertical-offset="1101" max-vertical-offset="1694" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStGameOver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="4" selection-start="3490" selection-end="3490" vertical-scroll-proportion="0.77740306" vertical-offset="2817" max-vertical-offset="3960" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStNewGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="18" selection-start="497" selection-end="511" vertical-scroll-proportion="1.0387858" vertical-offset="0" max-vertical-offset="836" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStNewLevel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1848" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/object/jUserSheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="8" selection-start="939" selection-end="939" vertical-scroll-proportion="0.3322091" vertical-offset="661" max-vertical-offset="1958" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStPlayLevel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jStPlayerStart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="902">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styleSheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="2" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.0" vertical-offset="1386" max-vertical-offset="3740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/tools/easyTool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="27" selection-start="2248" selection-end="2248" vertical-scroll-proportion="0.0" vertical-offset="2218" max-vertical-offset="3586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/tools/jLoadImagesManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="13" selection-start="872" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="1100" max-vertical-offset="1408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaScript/jGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="22" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.0" vertical-offset="1283" max-vertical-offset="3102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qd99.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="34" selection-end="56" vertical-scroll-proportion="0.07638889" vertical-offset="0" max-vertical-offset="3080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

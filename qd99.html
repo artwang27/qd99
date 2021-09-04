@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>快打9X9</title>
+    <link rel="styleSheet" href="styleSheet/style.css" type="text/css"/>
+
+    <script src='javaScript/tools/jRoundedRect.js'></script>
+    <script src='javaScript/tools/jLoadImagesManager.js'></script>
+    <script src='javaScript/tools/jStorage.js'></script>
+    <script src='javaScript/tools/easyTool.js'></script>
+    <script src='javaScript/jKeyControl.js'></script>
+
+
+    <script src='javaScript/object/jScoreSheet.js'></script>
+    <script src='javaScript/object/jWrongSheet.js'></script>
+    <script src='javaScript/object/jPersonalSheets.js'></script>
+    <script src='javaScript/object/jUserSheet.js'></script>
+
+
+    <script src='javaScript/object/jCurrentQuestion.js'></script>
+    <script src='javaScript/object/jQuestions.js'></script>
+    <script src='javaScript/object/jTable.js'></script>
+    <script src='javaScript/object/jCards.js'></script>
+
+
+    <script src='javaScript/jStateManager.js'></script>
+    <script src='javaScript/jStTitle.js'></script>
+    <script src='javaScript/jStNewGame.js'></script>
+    <script src='javaScript/jStNewLevel.js'></script>
+    <script src='javaScript/jStPlayerStart.js'></script>
+    <script src='javaScript/jStPlayLevel.js'></script>
+    <script src='javaScript/jStPlayerDie.js'></script>
+    <script src='javaScript/jStGameOver.js'></script>
+    <script src='javaScript/jStHighScore.js'></script>
+
+
+    <script src='javaScript/fireworks.js'></script>
+    <script src='javaScript/jAnimate.js'></script>
+
+
+    <script src='javaScript/jBackgroundColors.js'></script>
+    <script src='javaScript/jGame.js'></script>
+    <script src='javaScript/test.js'></script>
+
+</head>
+<body>
+
+<canvas id="canvas" width="750" height="500">
+    您的瀏覽器無法繪圖，請改用 Chrome
+</canvas>
+
+<div>
+    <input type="text" id="userGuess" size="2" maxlength="3" onkeypress="return checkKey(event);" />
+</div>
+
+
+<section id="page_title">
+    <input type="button" id="btnShowScore" class="button" value="英雄榜" />
+    <input type="button" id="btnNewGame" class="button" value="參加挑戰" />
+</section>
+
+
+
+<section id="page_newGame">
+    班級： <input type="text" id="userClass" value="307" />
+    座號： <input type="text" id="userNum" value="15" />
+    <input type="button" id="btnLogin" class="button" value="登入" />
+    <br/>	<br/>
+
+    <table id="div_selectLevel">
+        <tr><td align="center">您的程度如下：</td></tr>
+        <tr><td>
+            <select size="10" id="selectLevel" class="smallFont">
+                <option value="2">　　乘法 2　　</option>
+                <option value="3">　　乘法 3　　</option>
+                <option value="4">　　乘法 4　　</option>
+                <option value="5">　　乘法 5　　</option>
+                <option value="6">　　乘法 6　　</option>
+                <option value="7">　　乘法 7　　</option>
+                <option value="8">　　乘法 8　　</option>
+                <option value="9">　　乘法 9　　</option>
+                <option value="1">　Final Test　</option>
+            </select>
+        </td></tr>
+
+        <tr><td align="center">請選擇關卡
+            <input type="button" id="btnNewLevel" class="button" value="開始挑戰" />
+        </td></tr>
+    </table>
+</section>
+
+
+<section id="page_highScore"  >
+    <table>
+        <tr>
+            <td id="highScoreTitle" align="center" class="middleFont">排行榜</td>
+        </tr>
+        <tr><td>
+            <div id='Contain' style='overflow-y:auto; height:360px;'>
+                <table>
+                    <thead><tr>
+                        <th style="width:100px">名次</th>
+                        <th style="width:180px">姓名</th>
+                        <th style="width:100px">分數</th>
+                        <th style="width:120px">花了幾秒</th>
+                    </tr></thead>
+
+                    <tbody id="highScoreList" class="smallFontFixedWidth" readonly></tbody>
+
+                </table>
+            </div>
+
+        </td></tr>
+        <tr>
+            <td align="center"><input type="button" id="btnExitHighScore" class="button" value="確定" /> </td>
+        </tr>
+    </table>
+</section>
+
+
+
+<section id="page_saveConfirm">
+    <table>
+        <tr><td id="confirmSaveScore">成績有退步，是否存檔？<br/><br/></td></tr>
+        <tr><td align="center">
+            <input type="button" id="btnYes" class="button" value="存檔" />
+            <input type="button" id="btnNo" class="button" value="取消" />
+        </td></tr>
+    </table>
+</section>
+
+
+</body>
+</html>

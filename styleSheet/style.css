@@ -1,0 +1,164 @@
+
+body{
+    /* 所做的設定，並不會影響到 input 和 button 和 table，所以必須另外設定 */
+    font-size: 24px;
+    font-family: "微軟正黑體", "Microsoft JhengHei",Consolas, serif;
+    /*color: #ddeeff; */
+    color: #000000;
+
+    background:   #b08050;	/*磚頭色 */
+}
+
+input{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* *********************************** */
+
+.smallFont{
+    font-size: 24px;
+    font-family: "微軟正黑體", "Microsoft JhengHei",Consolas, serif;
+    color: #ddeeff;
+    background: #b08050;
+}
+
+.smallFontFixedWidth{
+    /* 為了排行榜內容的裡數字的對齊，只能使用Consolas */
+    font-size: 24px;
+    font-family: Consolas, serif;
+    color: #ddeeff;
+    background: #b08050;
+    cursor:pointer;
+}
+
+
+.middleFont{
+/*目前只有[排行榜]套用此樣式 */
+font-size: 30px;
+    font-family: Consolas, serif;
+    font-weight: bold;
+    color: #ddeeff;
+    background: rgb(50,100,50); //墨綠色
+}
+
+.button {
+    background: url(../images/button_1.png) no-repeat;
+    cursor:pointer;
+    border: none;
+    width: 114px;
+    height: 48px;
+    color: #ddeeff;
+}
+
+
+/* *********************************** */
+
+#canvas{
+    z-index: -1;
+    position: absolute;
+    margin-left: -6px;
+    margin-top: -6px;
+
+    background: #ffffff;
+    border: thin solid #aaaaaa;
+}
+
+
+/*作答框的大小 */
+#userGuess{
+    position: absolute;
+    left: 525px;
+    top: 365px;
+    font-size: 50px;
+/*若以 height=100;  沒有作用 */
+
+/*
+line-height: 100px;
+    width: 160px;
+*/
+
+    color: #308040;
+    display: none;
+}
+
+/* *********************************** */
+
+#page_title{
+    position: absolute;
+    left: 250px;
+    top: 330px;
+
+    display: none;
+}
+
+
+/* *********************************** */
+
+#page_newGame{
+    position: absolute;
+    left: 60px;
+    top: 6px;
+/*咖啡色
+background: rgba(0,0,255,0.5); */
+    background: rgba(49,143,54,0.1);
+
+    display: none;
+}
+
+
+#userClass{
+    width: 120px;
+    height: 36px;
+}
+
+#userNum{
+    width: 120px;
+    height: 36px;
+}
+
+
+#div_selectLevel{
+    display: none;
+}
+
+/* *********************************** */
+
+#page_highScore{
+    position: absolute;
+    display: none;
+    left: 100px;
+    top: 36px;
+
+    /* border:5px solid;
+    border-color:#73FF75"
+    */
+
+/*background: rgb(90,80,60); */
+    background: rgba(49,143,54,0.1);
+
+}
+
+
+
+/* *********************************** */
+
+#page_saveConfirm{
+    background: rgba(255,0,0,0.7);
+    position: absolute;
+    left: 250px;
+    top: 200px;
+
+    display: none;
+}
+
+
+/* *********************************** */
+
+#debug{
+    background: #dddddd;
+    font-size: 16px;
+}
+
+
+/* *********************************** */
